@@ -21,7 +21,6 @@ import androidx.core.view.WindowInsetsCompat;
 public class MainActivity2 extends AppCompatActivity {
     private EditText vvodA;
     private EditText vvodB;
-    private EditText vvodC;
     private TextView Rez;
     private Button cal;
     @SuppressLint("MissingInflatedId")
